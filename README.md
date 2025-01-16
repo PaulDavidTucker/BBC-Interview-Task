@@ -1,9 +1,11 @@
-## Blackjack Tech Test - Starter Code
-
-This code is offered as a potential starting point for completing the BBC Software Engineering Graduate Scheme tech test.
-You do **not** have to use this starter code.
+## Blackjack Tech Test - Paul Tucker
 
 Assets for the card sprites are taken from https://opengameart.org/content/boardgame-pack which is free and under the CC0 license. Credit - www.kenney.nl
+
+Please see the docs.md for setup and debugging info! :)
+
+
+## Original Brief
 
 ### Getting started
 
