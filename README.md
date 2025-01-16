@@ -4,6 +4,7 @@ Assets for the card sprites are taken from https://opengameart.org/content/board
 
 Please see the docs.md for setup and debugging info! :)
 
+[See the docs here!](docs/docs.md)
 
 ## Original Brief
 
